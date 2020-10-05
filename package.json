@@ -1,0 +1,19 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Anna Bała",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.11"
+  },
+  "dependencies": {
+    "search": "^1.0.0"
+  }
+}
