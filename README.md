@@ -16,3 +16,6 @@ parcel.js bundler for es6 and scss
 Ad 3
 
 https://annabala.github.io/wikipedia-search/
+
+
+Code available on "main" branch
